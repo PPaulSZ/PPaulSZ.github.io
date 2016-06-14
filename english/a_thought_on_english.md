@@ -24,47 +24,41 @@ Once I became a middle school student, unfortunately, the consistency in Chinese
 *   **Components:** `adverbial-1` [Although not so world widely accepted,] `subject` people `attribute-1` [who are emotionally weak in daily business] `predicate` are `adverbial-2` often `object` losers `attribute-2` [who are not able to fulfill any fruitful achievements in their lifetime that they endure].
 *   **Supplementary:** `attribute` and `adverbial` are always composed by
 
-        <span class="hljs-bullet">1.  </span>Prepositional phrases
+        <span class="hljs-tag"><<span class="hljs-title">span</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"hljs-bullet"</span>></span>1.  <span class="hljs-tag"></<span class="hljs-title">span</span>></span>Prepositional phrases
+    `</pre>
+    `</pre>
+    <pre>`<span class="hljs-bullet">1.  </span>Clauses
     `</pre>
 
-        1.  Clauses
-    2.  The participial constructions
+        1.  The participial constructions
 *   **More details:** The above supplementary suggests that `attribute-1` and  `attribute-2` in the analysis of components could be divided in details according to the above three classes. `adverbial-1` is a prepositional phrase, so it cannot be devided anymore. For `attribute-1` and  `attribute-2`, we have
-    <pre>`<span class="hljs-number">1</span>.  <span class="hljs-escape">`a</span>ttribute-<span class="hljs-number">1</span><span class="hljs-escape">` </span>[<span class="hljs-number">1</span>) who are emotionally weak <span class="hljs-number">2</span>) in daily business]
+    <pre>`<span class="hljs-number">1</span>.  <span class="hljs-escape">`a</span>ttribute-<span class="hljs-number">1</span><span class="hljs-escape">`</span>[<span class="hljs-number">1</span>) who are emotionally weak <span class="hljs-number">2</span>) in daily business]`</pre>
+    <pre>`1.  <span class="hljs-smartquote">`attribute-2` [1) who are not able to fulfill any fruitful achievements 2) in their lifetime 3) that they endure]. Note that '</span><span class="hljs-emphasis">_to fulfill_</span>' is fundamentally a phrase <span class="hljs-emphasis">'_be able to_'</span>, so the partition cannot be placed before <span class="hljs-emphasis">'_to_'</span>.
     `</pre>
-
-        1.  `attribute-2` [1) who are not able to fulfill any fruitful achievements 2) in their lifetime 3) that they endure]. Note that '_to fulfill_' is fundamentally a phrase '_be able to_', so the partition cannot be placed before '_to_'.
-
     Comparing Example 2 with Example 1, it can be easily seen that the oder of  `subject`,  `predicate` and `object` still keeps the same no matter how complex the sentence would be. Then we can conclude that Example 1 is just a simlification of Example 2.  It would be so great if Example 2 were the most general one and all the English sentences satisfied the same structure as Example 2. It can be so if you pray sincerely. Inspired by Example 2, we first assert the follows as "fact".
-
     ## Formulae
-
     **Formula 1:** The structure of any **English** sentence satisfies
-
-    <pre>`(adverbial-<span class="hljs-number">1</span>)<span class="hljs-annotation">[<span class="hljs-link_label">subject</span>]</span>(<span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-link_url"</span>>attribute-<span class="hljs-number">1</span></span>)<span class="hljs-annotation">[<span class="hljs-link_label">predicate</span>]</span>(<span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-link_url"</span>>adverbial-<span class="hljs-number">2</span></span>)(object)(attribute-<span class="hljs-number">2</span>/adverbial-<span class="hljs-number">1</span>)
+    <pre>`(adverbial-<span class="hljs-number">1</span>)<span class="hljs-annotation">[<span class="hljs-link_label">subject</span>]</span>(<span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-link_url"</span>>attribute-<span class="hljs-number">1</span></span>)<span class="hljs-annotation">[<span class="hljs-link_label">predicate</span>]</span>(<span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-link_url"</span>>adverbial-<span class="hljs-number">2</span></span>)(object)(attribute-<span class="hljs-number">2</span>/adverbial-<span class="hljs-number">1</span>)`</pre>
     `</pre>
-    `</pre>
-
-*   _Remarks:_<pre>`<span class="hljs-number">1</span>.  The parentheses <span class="hljs-escape">`(</span> )<span class="hljs-escape">` </span>means the corresponding components could be omitted. <span class="hljs-literal">And</span> the square brackets <span class="hljs-escape">`[</span> ]<span class="hljs-escape">` </span>is used to emphasis that the related components are necessaily in forming <span class="hljs-literal">a</span> basic stentence.
+*   _Remarks:_<pre>`<span class="hljs-number">1</span>.  The parentheses <span class="hljs-escape">`(</span> )<span class="hljs-escape">`</span>means the corresponding components could be omitted. <span class="hljs-literal">And</span> the square brackets <span class="hljs-escape">`[</span> ]<span class="hljs-escape">`</span>is used to emphasis that the related components are necessaily in forming <span class="hljs-literal">a</span> basic stentence.`</pre>
+    <pre>`<span class="hljs-number">1.</span>  In Formula <span class="hljs-number">1</span>, `adverbial-<span class="hljs-number">1</span>` appears two <span class="hljs-keyword">times</span> due <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> reason <span class="hljs-keyword">that</span> `adverbial-<span class="hljs-number">1</span>` could be placed either head <span class="hljs-keyword">or</span> tail. For instance, one can see <span class="hljs-keyword">from</span> Example <span class="hljs-number">2</span> <span class="hljs-keyword">that</span> `adverbial-<span class="hljs-number">1</span>` [Although <span class="hljs-keyword">not</span> so world widely accepted,] obviously can also be <span class="hljs-keyword">put</span> <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> <span class="hljs-keyword">end</span> <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> sentence <span class="hljs-keyword">as</span> long <span class="hljs-keyword">as</span> <span class="hljs-keyword">it</span> reads smoothly.
     `</pre>
 
-        1.  In Formula 1, `adverbial-1` appears two times due to the reason that `adverbial-1` could be placed either head or tail. For instance, one can see from Example 2 that `adverbial-1` [Although not so world widely accepted,] obviously can also be put in the end of the sentence as long as it reads smoothly.
-    2.  Clever readers may find that the structures of `[subject](attribute-1)` and `(object)(attribute-2)` are essentially the same thing. It should be intuitively a truth as is shown in Example 1 `I love you` where `I` and `You` must be equal in every way. Otherwise, it's not love but an unrequited one.
+        1.  Clever readers may find that the structures of `[subject](attribute-1)` and `(object)(attribute-2)` are essentially the same thing. It should be intuitively a truth as is shown in Example 1 `I love you` where `I` and `You` must be equal in every way. Otherwise, it's not love but an unrequited one.
 *   _Connections with Chinese:_ As a Chinese whose first langue is Chinese, the follows three features in Chinese should be understood without any difficulities.
-    <pre>`<span class="hljs-number">1</span>.  The oder of <span class="hljs-escape">`s</span>ubject<span class="hljs-escape">`-</span>><span class="hljs-escape">`p</span>redicate<span class="hljs-escape">`-</span>><span class="hljs-escape">`o</span>bject<span class="hljs-escape">` </span>keeps the same in Chinese<span class="hljs-comment">;</span>
-    `</pre>
+    <pre>`<span class="hljs-number">1</span>.  The oder of <span class="hljs-escape">`s</span>ubject<span class="hljs-escape">`-</span>><span class="hljs-escape">`p</span>redicate<span class="hljs-escape">`-</span>><span class="hljs-escape">`o</span>bject<span class="hljs-escape">`</span>keeps the same in Chinese<span class="hljs-comment">;</span>`</pre>
+    <pre>`<span class="hljs-number">1.</span>  In Chinese, `adverbial-<span class="hljs-number">1</span>` can also placed <span class="hljs-operator">in</span> <span class="hljs-operator">the</span> beginning <span class="hljs-operator">or</span> <span class="hljs-operator">in</span> <span class="hljs-operator">the</span> <span class="hljs-function"><span class="hljs-keyword">end</span>;</span>
 
-        1.  In Chinese, `adverbial-1` can also placed in the beginning or in the end;
-    2.  The only difference is that `[subject](attribute-1)` in Egnlish sould be rserved as  `(attribute-1)[subject]` in Chinese, so is `(object)(attribute-2)` by the third item in the above Remarks. Similarly, `[predicate](adverbial-2)` in English is reordered as `(adverbial-2)[predicate]` in Chinese.    From the above the discussion, the following formula about the structure of Chinese can be immediately derived from Formula 1.
-    **Formula 2:** The structure of any **Chinese** sentence satisfies
-    <pre>`(adverbial-1/attribute-1)[<span class="hljs-link_label">subject</span>](span class="hljs-link_url">adverbial-2</span)[<span class="hljs-link_label">predicate</span>](span class="hljs-link_url">attribute-2</span)(object)(adverbial-1)
+    1.  The only difference is that `[subject](attribute-1)` in Egnlish sould be rserved as  `(attribute-1)[subject]` in Chinese, so is `(object)(attribute-2)` by the third item in the above Remarks. Similarly, `[predicate](adverbial-2)` in English is reordered as `(adverbial-2)[predicate]` in Chinese.    From the above the discussion, the following formula about the structure of Chinese can be immediately derived from Formula 1.
+**Formula 2:** The structure of any **Chinese** sentence satisfies
+&lt;pre&gt;`(adverbial-1/attribute-1)[&lt;span class="hljs-link_label"&gt;subject&lt;/span&gt;](span class=&quot;hljs-link_url&quot;&gt;adverbial-2&lt;/span)[&lt;span class="hljs-link_label"&gt;predicate&lt;/span&gt;](span class=&quot;hljs-link_url&quot;&gt;attribute-2&lt;/span)(object)(adverbial-1)
 
-    ## Main Result
+## Main Result
 
     Combing Formula 1 and Formula 2 yields our main result of this note.
 
 *   **Main Result:** There is a one-to-one relationship between **English** and **Chinese**. And the mapping from English to Chinese can be operated in three extremely easy steps, and vice versa:
-    <pre>`<span class="hljs-number">1</span>.  Fix <span class="hljs-literal">and</span> keep the order of the three elements:   <span class="hljs-escape">`s</span>ubject<span class="hljs-escape">`-</span>><span class="hljs-escape">`p</span>redicate<span class="hljs-escape">`-</span>><span class="hljs-escape">`o</span>bject<span class="hljs-escape">`;</span>
+&lt;pre&gt;`<span class="hljs-number">1</span>.  Fix <span class="hljs-literal">and</span> keep the order of the three elements:   <span class="hljs-escape">`s&lt;/span&gt;ubject&lt;span class="hljs-escape"&gt;`-</span>><span class="hljs-escape">`p&lt;/span&gt;redicate&lt;span class="hljs-escape"&gt;`-</span>><span class="hljs-escape">`o&lt;/span&gt;bject&lt;span class="hljs-escape"&gt;`;&lt;/span&gt;
 
-    1.  Fix `adverbial-1` in the beginning or the end of the sentence;
+        1.  Fix `adverbial-1` in the beginning or the end of the sentence;
     2.  Reorder `[subject](attribute-1)`, `[predicate](adverbial-2)` and `(object)(attribute-2)` in English to be `(attribute-1)[subject]`, `(adverbial-2)[predicate]` and `(attribute-2)(object)` in Chinese, respectively.
