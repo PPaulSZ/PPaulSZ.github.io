@@ -1,4 +1,4 @@
-# ONLINEBLOG
+# ONLINE BLOG
 
 [CONTENTS](navigation.md)
 
