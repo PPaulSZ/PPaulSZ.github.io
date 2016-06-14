@@ -1,3 +1,3 @@
 # Assignment1
 
-Today we learnt the basic methods of building personal blog based on GitHub.
+Today we learnt the basic methods of building personal blogs based on GitHub.
