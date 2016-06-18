@@ -8,6 +8,7 @@
 *   [lesson1&amp;2](1/lesson1&amp;2.md)
 *   [lesson3&amp;4](1/lesson3&amp;4.md)
 *   [lesson5&amp;6](1/lesson5&amp;6.md)
+*   [lesson7&amp;8](1/lesson7&amp;8.md)
 
 [2.自然拼读]()
 
