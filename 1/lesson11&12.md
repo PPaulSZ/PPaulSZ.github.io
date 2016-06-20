@@ -1,6 +1,6 @@
 ## lesson 11
 
-_定R4：_“,”+从句，分开排序
+定R4：“,”+从句，分开排序
 
 e.g. I love my father, who is good to me.
 
@@ -14,7 +14,7 @@ e.g. She left without byebye, which makes me feel sad.
 
 ## lesson 12
 
-_定R5：_介词+从句，分开排序
+定R5：介词+从句，分开排序
 
 e.g. in which+... ； to whom+...
 
@@ -22,9 +22,9 @@ e.g. I held a meeting in which i presented a plan.
 
 翻译：我开了个会，在会上我提出了个计划。
 
-_对长定语的处理：_n+123456 理想状态复杂化
+对长定语的处理：n+123456 理想状态复杂化
 
-_补充：状语R5：_ 宾语+状语
+补充：状语R5： 宾语+状语
 
 e.g. I love you [in my own way].
 
