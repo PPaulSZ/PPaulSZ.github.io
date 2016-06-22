@@ -11,7 +11,7 @@ e.g. But [the idea]【主】 that the journalist must understand the law more pr
 
 1.名词性从句的计算 
 
-名词性从句：
+#### 名词性从句：
 
 (1).宾从 I think that...
 
