@@ -13,6 +13,7 @@
 *   [lesson11&amp;12](1/lesson11&amp;12.md)
 *   [lesson13&amp;14](1/lesson13&amp;14.md)
 *   [lesson15&amp;16](1/lesson15&amp;16.md)
+*   [lesson17&amp;18](1/lesson17&amp;18.md)
 
 [2.自然拼读]()
 
