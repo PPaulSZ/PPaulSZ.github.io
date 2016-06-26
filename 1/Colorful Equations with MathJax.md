@@ -23,9 +23,9 @@ $$\textcolor{Purple}{X}_\textcolor{Green}{k}
 
 **为了发现<font color=Purple>特定频率下的</font> <font color=Green>能量</font> , <font color=Red>根据频率</font> <font color=Blue>旋转</font> <font color=Orange>你的信号</font> <font color=Green>一圈</font>, 并且<font color=Magenta>沿着该路径平均分配一束点</font>。**
 
-**Remark:**
+**备注：**
 
-1. Html color setting  
+1. Html 颜色设置  
 		<font color=Blue>Blue</font> 
 		 <font color=Brown>Brown</font> 
 		 <font color=Cyan>Cyan</font> 
@@ -35,5 +35,5 @@ $$\textcolor{Purple}{X}_\textcolor{Green}{k}
 		 <font color=Orange>Orange</font> 
 		 <font color=Yellow>Yellow</font> 
 		 <font color=Purple>Purple</font> 
-2. The raw equation is $$X_k=\frac{1}{N}\sum_{n=0}^{N-1}x_ne^{i2\pi k \frac{n}{N}}.$$
-3. Reference: [Colorful Equations With MathJax](http://adereth.github.io/blog/2013/11/29/colorful-equations/)
+2. 原方程式为 $$X_k=\frac{1}{N}\sum_{n=0}^{N-1}x_ne^{i2\pi k \frac{n}{N}}.$$
+3. 参考资料：[Colorful Equations With MathJax](http://adereth.github.io/blog/2013/11/29/colorful-equations/)
