@@ -1,4 +1,4 @@
-# NOTEBOOK
+# Paul's Blog
 
 [CONTENTS](navigation.md)
 
