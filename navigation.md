@@ -16,6 +16,7 @@
 *   [lesson17&amp;18](1/lesson17&amp;18.md)
 *   [lesson19-21](1/lesson19-21.md)
 *   [心得体会](1/心得体会.md)
+*   [色彩标注法](1/Colorful Equations with MathJax.md)
 
 [2.自然拼读]()
 
@@ -24,7 +25,7 @@
 &lt;script type="text/x-mathjax-config"&gt;
   MathJax.Hub.Config({
     tex2jax: {
-      inlineMath: [ ['$','$'], ["(",")"] ],
+      inlineMath: [ ['$','$'], ["\(","\)"] ],
       processEscapes: true
     }
   });
@@ -33,7 +34,7 @@
 &lt;script type="text/x-mathjax-config"&gt;
     MathJax.Hub.Config({
       tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'] 
       }
     });
 &lt;/script&gt;
