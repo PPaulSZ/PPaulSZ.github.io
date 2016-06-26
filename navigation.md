@@ -17,6 +17,7 @@
 *   [lesson19-21](1/lesson19-21.md)
 *   [心得体会](1/心得体会.md)
 *   [色彩标注法](1/Colorful Equations with MathJax.md)
+*   [色彩标注法1](1/MathJax.md)
 
 [2.自然拼读]()
 
