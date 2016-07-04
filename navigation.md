@@ -25,6 +25,8 @@
 
 [3.格林法则]()
 
+*   [格林法则](2/格林法则.md)
+
 [gimmick:theme](yeti)
 [gimmick: math]()
 
